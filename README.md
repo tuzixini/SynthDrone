@@ -16,9 +16,9 @@ For more details, please refer to [SynthDrone-Generator](SynthDrone-Generator)
 For more details, please refer to [SynthDrone-Labeler](SynthDrone-Labeler)
 
 ## 3. SynthDrone Dataset (SynthDrone)
-[SynthDrone](img/SynthDrone.png)
+![SynthDrone](img/SynthDrone.png)
 For more details, please refer to [SynthDrone](SynthDrone)
 
 ## 4. Depth Aware Target Distribution Estimation Network (DATDNet)
-[DATDNet](img/DATDNet.png)
+![DATDNet](img/DATDNet.png)
 For more details, please refer to [DATDNet](DATDNet)
