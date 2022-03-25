@@ -9,7 +9,7 @@ This repository contains following four parts:
 
 ## 1. Synthetic Drone Raw Data Generation Framework (SynthDrone-Generator)
 ![SynthDrone-Generator](img/SynthDrone-Generator.png)
-For more details, please refer to [here](SynthDrone-Generator/README.md)
+For more details, please refer to [here](SynthDrone-Generator)
 ## 2. Synthetic Drone Raw Data Labeler (SynthDrone-Labeler)
 
 ## 3. SynthDrone Dataset (SynthDrone)
