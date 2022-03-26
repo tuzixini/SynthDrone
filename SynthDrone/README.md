@@ -53,6 +53,14 @@ Segmentation Map for all concerned entities (Ped and Veh).
 ## Download
 **Coming Soon**
 
-Ali Cloud Disk [[Compressed](##)] [[Full](##)]
+**Attention:**
 
-OneDriver [[Compressed](##)] [[Full](##)]
+*Compressed:* All data with compressed Jpeg images.
+
+*PNG Image:* Only contains PNG images.
+
+---
+
+Ali Cloud Disk [[Compressed](##)] [[PNG Image](##)]
+
+OneDriver [[Compressed](##)] [[PNG Image](##)]
