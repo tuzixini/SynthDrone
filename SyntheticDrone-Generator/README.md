@@ -47,4 +47,8 @@
 5. Copy the compiled SDG files `Drone.dll`, `Drone.pdb` and also the lib files `ScriptHookVDotNet3.dll`,'ScriptHookVDotNet3.xml' into the `$GAMEROOT\scripts` folder.
 6. Run GTAV in the offline version
 
-### 
+### Location Collection
+TODO
+
+### Data Collection
+TODO
