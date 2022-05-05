@@ -1,0 +1,9 @@
+E:\Code\Drone\Drone\Drone\bin\Release\Drone.dll
+E:\Code\Drone\Drone\Drone\bin\Release\Drone.pdb
+E:\Code\Drone\Drone\Drone\bin\Release\ScriptHookVDotNet3.dll
+E:\Code\Drone\Drone\Drone\bin\Release\ScriptHookVDotNet3.xml
+E:\Code\Drone\Drone\Drone\obj\Release\Drone.csprojResolveAssemblyReference.cache
+E:\Code\Drone\Drone\Drone\obj\Release\Drone.csproj.CoreCompileInputs.cache
+E:\Code\Drone\Drone\Drone\obj\Release\Drone.csproj.CopyComplete
+E:\Code\Drone\Drone\Drone\obj\Release\Drone.dll
+E:\Code\Drone\Drone\Drone\obj\Release\Drone.pdb

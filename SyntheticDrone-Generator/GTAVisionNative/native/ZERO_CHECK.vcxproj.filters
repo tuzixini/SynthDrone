@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Code\GTAVisionExport-master\native\CMakeFiles\e439d47004eb2528f64548df56d38db0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{30434A0C-38C3-3EFE-BB27-6260CABF7740}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

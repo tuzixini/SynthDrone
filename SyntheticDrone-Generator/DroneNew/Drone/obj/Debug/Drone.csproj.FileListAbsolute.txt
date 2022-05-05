@@ -1,0 +1,11 @@
+E:\Code\Drone\Drone\Drone\obj\Debug\Drone.csprojResolveAssemblyReference.cache
+E:\Code\Drone\Drone\Drone\obj\Debug\Drone.csproj.CoreCompileInputs.cache
+E:\Code\DroneNew\Drone\bin\Debug\Drone.dll
+E:\Code\DroneNew\Drone\bin\Debug\Drone.pdb
+E:\Code\DroneNew\Drone\bin\Debug\ScriptHookVDotNet3.dll
+E:\Code\DroneNew\Drone\bin\Debug\ScriptHookVDotNet3.xml
+E:\Code\DroneNew\Drone\obj\Debug\Drone.csprojResolveAssemblyReference.cache
+E:\Code\DroneNew\Drone\obj\Debug\Drone.csproj.CoreCompileInputs.cache
+E:\Code\DroneNew\Drone\obj\Debug\Drone.csproj.CopyComplete
+E:\Code\DroneNew\Drone\obj\Debug\Drone.dll
+E:\Code\DroneNew\Drone\obj\Debug\Drone.pdb
